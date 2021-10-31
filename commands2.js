@@ -1,0 +1,1 @@
+mongoimport --uri "mongodb+srv://user:user@cluster0.xjkwp.mongodb.net/test?retryWrites=true&w=majority" --collection myData --drop --file /somedir/myFileToImport.json
